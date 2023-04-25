@@ -12,7 +12,7 @@ metadata:
 spec:
   containers:
     - name: nodeapp
-      image: kammana/nodeapp:v1
+      image: ashu/nodeapp:v1
       ports:
         - containerPort: 8080
 ```
